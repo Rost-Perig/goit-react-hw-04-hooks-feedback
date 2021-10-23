@@ -1,2 +1,3 @@
 # goit-react-hw-04-hooks-feedback
-goit-react-hw-04-hooks-feedback
+
+Проведен рефакторинг кода задания "Виджет отзывов" используя React-хуки.
